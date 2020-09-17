@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](intro.png)
+[![](intro.png)]
 
 
 - 🌱 I’m currently learning internet of things,embedded systems.
