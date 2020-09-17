@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://drive.google.com/drive/u/0/my-drive)
+![](intro.png)
 
 
 - 🌱 I’m currently learning internet of things,embedded systems.
